@@ -1,0 +1,12 @@
+Python was created 1991 by its creator, guido van rossum
+2008 python3
+python interpreter is cpython
+
+https://www.youtube.com/watch?v=J0Aq44Pze-w
+https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+https://en.wikipedia.org/wiki/List_of_programming_languages
+
+# python 3 readiness
+
+https://github.com/aneagoie/ztm-python-cheat-sheet
