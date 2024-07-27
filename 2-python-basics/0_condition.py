@@ -6,7 +6,7 @@ if is_old:
 elif is_licensed:
     print("You can drive!")
 else:
-    print('You are not of age!')
+    print("You are not of age!")
 
 
 print("OK")
